@@ -1,1 +1,1 @@
-<?php echo “I am a Robot Tor-Sad”;
+<?php echo “I am a robot Tor-Sad”;
